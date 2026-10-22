@@ -108,7 +108,7 @@ const abdellatif = {
 <p align="center">
   📧 <b>abdelmahamt50@gmail.com</b> &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/abdellatif-mahamat-dougouye/">LinkedIn</a> &nbsp;·&nbsp;
-  📍 Khouribga, Morocco
+  📍 Morocco
 </p>
 
 <p align="center">
