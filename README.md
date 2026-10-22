@@ -84,19 +84,7 @@ const abdellatif = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🚀 &nbsp;Featured project
 
-<table>
-<tr>
-<td width="100%">
-
-### ☁️ Cloud-deployed API service
-**Containerized FastAPI service with automated deployment on Microsoft Azure**
-
-- ⚡ REST API built with **FastAPI**
-- 🐳 Packaged with **Docker** for reproducible deployments
-- ☁️ Hosted on **Microsoft Azure**
-- 🔄 **CI/CD pipeline with GitHub Actions** for automated build and deployment
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
