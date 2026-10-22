@@ -1,146 +1,143 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:163048,100:2E86AB&height=220&section=header&text=Abdellatif%20Mahamat%20Dougouye&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20MLOps%20%E2%80%A2%20Agentic%20Systems&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Abdellatif%20Mahamat%20Dougouye&fontSize=44&fontColor=00e5ff&stroke=00e5ff&strokeWidth=1&fontAlignY=40&desc=Information%20Systems%20Engineering%20Student&descSize=20&descColor=e0f7fa&descAlignY=62&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2E86AB&center=true&vCenter=true&width=640&lines=Final-year+Engineering+Student+%40+ENSA+Khouribga;Building+AI+systems+that+ship+to+production;Looking+for+a+PFE+in+AI+%2F+ML+%E2%80%94+January+2027" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Engineering+student+%40+ENSA+Khouribga;%3E+Software+%E2%80%A2+Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps;%3E+Learning+by+building+real+things" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdellatif-mahamat-dougouye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abdelmahamt50@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open_to-PFE_Internship-2EA44F?style=for-the-badge" alt="Open to work">
-  <img src="https://img.shields.io/badge/Location-Khouribga,_Morocco-163048?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/ENSA-Khouribga-00e5ff?style=for-the-badge&labelColor=0f2027" alt="ENSA Khouribga">
+  <img src="https://img.shields.io/badge/1337-42_Network-00e5ff?style=for-the-badge&labelColor=0f2027" alt="1337">
+  <img src="https://img.shields.io/badge/Based_in-Khouribga,_Morocco-00e5ff?style=for-the-badge&labelColor=0f2027&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://komarev.com/ghpvc/?username=abdellatifmht&label=Profile+views&color=00e5ff&style=for-the-badge&labelColor=0f2027" alt="Profile views">
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdellatif-mahamat-dougouye/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdelmahamt50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/abdellatifmht"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-## 👨‍💻 About me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-```python
-class Abdellatif:
-    role     = "Information Systems Engineering Student (PFE year)"
-    school   = ["ENSA Khouribga", "1337 (42 Network)"]
-    focus    = ["Machine Learning", "MLOps", "Agentic AI & LLM systems"]
-    looking  = "5–6 month End-of-Studies Internship in AI / ML — starting January 2027"
-    languages = {"French": "Fluent", "Arabic": "Fluent", "English": "B2"}
-
-    def mindset(self):
-        return "Go beyond the notebook: from model to deployed, monitored service."
-```
-
-- 🧠 Exploring **agentic AI**: multi-agent orchestration, tool use, RAG, self-critique loops
-- 🚀 Passionate about **MLOps**: serving, experiment tracking, drift monitoring, CI/CD
-- 📈 Experienced with **time-series ML** and rigorous, leakage-free evaluation
-
----
-
-## 🚀 Featured projects
+## 👨‍💻 &nbsp;About me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-### 🤖 AgentHub
-**Multi-agent system for automated tech watch & report generation**
-
-An autonomous team of agents that researches a topic and writes a cited technical report.
-
-- 🧩 **LangGraph** orchestration: Planner, Researcher, Analyst, Writer, Reviewer
-- 🔁 **ReAct** loop + self-critique agent to reduce hallucinations
-- 🛠️ Tool use / function calling (web search)
-- 🧠 Persistent memory with **ChromaDB**
-- 🔍 Agent tracing with **LangSmith**
-- 🐳 Served with **FastAPI / Streamlit** and **Docker**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+```ts
+const abdellatif = {
+  title:      "Information Systems Engineering Student",
+  school:     ["ENSA Khouribga", "1337 (42 Network)"],
+  studies:    "Information Systems Management & Governance",
+  year:       "Final year (PFE)",
+  strengths:  ["Software development", "Backend APIs", "Cloud & DevOps"],
+  languages:  { french: "Fluent", arabic: "Fluent", english: "B2" },
+  motto:      "Build it, ship it, then make it better.",
+};
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-### ⚙️ Predictive Maintenance
-**RUL estimation on industrial sensor data (NASA C-MAPSS)**
-
-End-to-end time-series ML pipeline built during my internship at 1337 Coding School.
-
-- 📊 Feature engineering: rolling windows, trend/slope features
-- 🏆 Compared **Linear Regression, XGBoost, LightGBM, LSTM**
-- 🎯 Custom score penalizing *late* failure predictions
-- 🚢 **FastAPI + Docker** deployment, **MLflow** tracking
-- 📉 Drift detection (**PSI**, **KS test**) + **Streamlit** dashboard
-
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### 🎓 Education
+- 🏫 **ENSA Khouribga**<br>Engineering Cycle — 2024 → now
+- 💻 **1337 (42 Network)**<br>Intensive programming — 2025 → now
+- 📚 **ENSA Khouribga**<br>Integrated Prep Cycle — 2022 → 2024
 
 </td>
 </tr>
 </table>
 
-> 📌 *Add the links to your repositories here once they are public.*
+- 🔭 Training in **programming, algorithms, software development and system administration** at 1337
+- 🏛️ Studying how **information systems** are designed, managed and governed in organizations
+- 🌱 Always building: APIs, containerized services and automated deployments
 
-### 🧭 AgentHub architecture
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-```mermaid
-flowchart LR
-    U([User topic]) --> P[Planner]
-    P --> R[Researcher<br/>web search tool]
-    R --> A[Analyst]
-    A --> W[Writer]
-    W --> V{Reviewer}
-    V -- needs fixes --> A
-    V -- approved --> O([Cited report])
-    A <--> M[(Vector memory<br/>ChromaDB)]
-```
-
----
-
-## 🛠️ Tech stack
+## 🛠️ &nbsp;Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,kubernetes,azure,githubactions,linux,git,postgres,mysql,java,js,c,grafana&perline=8" alt="Tech stack icons" />
-</p>
-
-| 🧠 AI & ML | ⚙️ MLOps & Monitoring | ☁️ DevOps & Backend |
-|---|---|---|
-| Scikit-learn, XGBoost, LightGBM | MLflow, FastAPI, Model Serving | Docker, Kubernetes |
-| PyTorch, LSTM, 1D-CNN | Data drift (PSI, KS test) | Microsoft Azure |
-| LangGraph, CrewAI, RAG | Streamlit, Grafana | GitHub Actions, CI/CD |
-| ChromaDB, LangSmith | Experiment tracking | Git, Linux, PostgreSQL, MySQL |
-
-**Languages:** Python • SQL • Java • JavaScript • C
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdellatifmht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatifmht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,postgres,mysql,fastapi&perline=7&theme=dark" alt="Languages and backend" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatifmht&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,linux,git,grafana&perline=7&theme=dark" alt="DevOps and cloud" />
 </p>
 
----
+<table align="center">
+<tr>
+<th>💻 Languages</th>
+<th>🧱 Backend & Databases</th>
+<th>☁️ DevOps & Cloud</th>
+</tr>
+<tr>
+<td align="center">Python<br>Java<br>JavaScript<br>C<br>SQL</td>
+<td align="center">FastAPI<br>REST APIs<br>PostgreSQL<br>MySQL</td>
+<td align="center">Docker<br>Kubernetes<br>Microsoft Azure<br>GitHub Actions · CI/CD<br>Git · Linux</td>
+</tr>
+</table>
 
-## 📫 Let's connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-I'm open to **AI / Machine Learning internship opportunities** and always happy to talk about MLOps, agentic systems or time-series ML.
+## 🚀 &nbsp;Featured project
+
+<table>
+<tr>
+<td width="100%">
+
+### ☁️ Cloud-deployed API service
+**Containerized FastAPI service with automated deployment on Microsoft Azure**
+
+- ⚡ REST API built with **FastAPI**
+- 🐳 Packaged with **Docker** for reproducible deployments
+- ☁️ Hosted on **Microsoft Azure**
+- 🔄 **CI/CD pipeline with GitHub Actions** for automated build and deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+> 📌 *Add the link to your repository here, and pin your best repos on your profile.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
+## 📊 &nbsp;GitHub stats
 
 <p align="center">
-  📧 <b>abdelmahamt50@gmail.com</b> &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/abdellatif-mahamat-dougouye/">LinkedIn</a> &nbsp;•&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdellatifmht&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatifmht&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatifmht&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellatifmht&theme=react-dark&hide_border=true&area=true&color=00e5ff&line=00e5ff&point=ffffff" alt="Activity graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
+## 📫 &nbsp;Let's connect
+
+<p align="center">
+  <b>Always happy to talk about software, systems and new opportunities.</b>
+</p>
+
+<p align="center">
+  📧 <b>abdelmahamt50@gmail.com</b> &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/abdellatif-mahamat-dougouye/">LinkedIn</a> &nbsp;·&nbsp;
   📍 Khouribga, Morocco
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:163048&height=110&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" alt="footer" />
 </p>
