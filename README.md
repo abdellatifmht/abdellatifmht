@@ -36,7 +36,7 @@ const abdellatif = {
   school:     ["ENSA Khouribga", "1337 (42 Network)"],
   studies:    "Information Systems Management & Governance",
   year:       "Final year (PFE)",
-  strengths:  ["Software development", "Backend APIs", "Cloud & DevOps"],
+  strengths:  ["Software development", "IA/ML", "Backend APIs", "Cloud & DevOps"],
   languages:  { french: "Fluent", arabic: "Fluent", english: "B2" },
   motto:      "Build it, ship it, then make it better.",
 };
