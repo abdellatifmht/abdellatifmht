@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ENSA-Khouribga-00e5ff?style=for-the-badge&labelColor=0f2027" alt="ENSA Khouribga">
   <img src="https://img.shields.io/badge/1337-42_Network-00e5ff?style=for-the-badge&labelColor=0f2027" alt="1337">
-  <img src="https://img.shields.io/badge/Based_in-Khouribga,_Morocco-00e5ff?style=for-the-badge&labelColor=0f2027&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Based_in-Morocco-00e5ff?style=for-the-badge&labelColor=0f2027&logo=googlemaps&logoColor=white" alt="Location">
   <img src="https://komarev.com/ghpvc/?username=abdellatifmht&label=Profile+views&color=00e5ff&style=for-the-badge&labelColor=0f2027" alt="Profile views">
 </p>
 
