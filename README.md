@@ -94,7 +94,7 @@ const abdellatif = {
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatifmht&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=abdellatifmht&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdellatifmht&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
