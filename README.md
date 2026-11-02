@@ -86,10 +86,10 @@ const abdellatif = {
 
 ## 📊 &nbsp;GitHub stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdellatifmht&show_icons=true&hide_border=true&count_private=true&bg_color=0f2027&title_color=00e5ff&text_color=e0f7fa&icon_color=00e5ff&ring_color=00e5ff" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatifmht&layout=compact&hide_border=true&bg_color=0f2027&title_color=00e5ff&text_color=e0f7fa" alt="Top languages" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abdellatifmht&hide_border=true&background=0f2027&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&currStreakLabel=00e5ff&sideNums=e0f7fa&sideLabels=e0f7fa&dates=9fb8c0" alt="GitHub streak" />
 </p>
