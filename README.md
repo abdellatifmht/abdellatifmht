@@ -59,10 +59,11 @@ const abdellatif = {
 - 🌱 Always building: APIs, containerized services and automated deployments
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
-
+<!-- <p>
 ## 🛠️ &nbsp;Tech stack
+<p/> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,c,postgres,mysql,fastapi&perline=7&theme=dark" alt="Languages and backend" />
 </p>
 <p align="center">
@@ -80,17 +81,19 @@ const abdellatif = {
 <td align="center">FastAPI<br>REST APIs<br>PostgreSQL<br>MySQL</td>
 <td align="center">Docker<br>Kubernetes<br>Microsoft Azure<br>GitHub Actions · CI/CD<br>Git · Linux</td>
 </tr>
-</table>
+</table> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
+<!-- <p>
 ## 📊 &nbsp;GitHub stats
+<p/> -->
 
 <!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdellatifmht&show_icons=true&hide_border=true&count_private=true&bg_color=0f2027&title_color=00e5ff&text_color=e0f7fa&icon_color=00e5ff&ring_color=00e5ff" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatifmht&layout=compact&hide_border=true&bg_color=0f2027&title_color=00e5ff&text_color=e0f7fa" alt="Top languages" />
 </p>  -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abdellatifmht&hide_border=true&background=0f2027&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&currStreakLabel=00e5ff&sideNums=e0f7fa&sideLabels=e0f7fa&dates=9fb8c0" alt="GitHub streak" />
 </p>
 
@@ -110,4 +113,4 @@ const abdellatif = {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" alt="footer" />
-</p>
+</p> -->
