@@ -54,6 +54,7 @@ const abdellatif = {
 </tr>
 </table>
 
+
 <!-- <p>
 - 🔭 Training in **programming, algorithms, software development and system administration** at 1337
 - 🏛️ Studying how **information systems** are designed, managed and governed in organizations
