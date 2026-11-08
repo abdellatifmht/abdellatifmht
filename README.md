@@ -54,12 +54,9 @@ const abdellatif = {
 </tr>
 </table>
 
-
-<!-- <p>
 - 🔭 Training in **programming, algorithms, software development and system administration** at 1337
 - 🏛️ Studying how **information systems** are designed, managed and governed in organizations
 - 🌱 Always building: APIs, containerized services and automated deployments
-<p/> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"> -->
 <!-- <p>
