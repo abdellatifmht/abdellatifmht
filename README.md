@@ -58,7 +58,7 @@ const abdellatif = {
 - 🏛️ Studying how **information systems** are designed, managed and governed in organizations
 - 🌱 Always building: APIs, containerized services and automated deployments
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"> -->
 <!-- <p>
 ## 🛠️ &nbsp;Tech stack
 <p/> -->
@@ -83,7 +83,7 @@ const abdellatif = {
 </tr>
 </table> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"> -->
 
 <!-- <p>
 ## 📊 &nbsp;GitHub stats
@@ -109,8 +109,8 @@ const abdellatif = {
   📧 <b>abdelmahamt50@gmail.com</b> &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/abdellatif-mahamat-dougouye/">LinkedIn</a> &nbsp;·&nbsp;
   📍 Morocco
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" alt="footer" />
-</p> -->
+</p>
